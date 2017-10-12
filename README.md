@@ -1,4 +1,4 @@
-# Projects Templates
+# Fast HTTP Server
 
 Quickly get a http server running to serve the current folder.
 
